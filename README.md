@@ -10,7 +10,7 @@ The purpose of this repository is to provide developers with a comprehensive res
 
 ### 1. Query Examples
 
-The `OrmMasterApp.views` directory contains individual Python scripts, each focusing on a specific ORM query scenario. These scripts are organized by topic, making it easy to find relevant examples.
+The `OrmMasteryApp.views` directory contains individual Python scripts, each focusing on a specific ORM query scenario. These scripts are organized by topic, making it easy to find relevant examples.
 
 ### 2. Documentation
 
@@ -22,7 +22,7 @@ Detailed documentation accompanies each query example, providing explanations, u
 
   https://github.com/shubhamvisare22/Django-ORM.git
 
-2. Navigate to the `OrmMasterApp.views` directory to explore the query examples.
+2. Navigate to the `OrmMasteryApp.views` directory to explore the query examples.
 
 3. Open the Python scripts to view the queries and accompanying documentation.
 
